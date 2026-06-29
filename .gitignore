@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# CatBoost auto-generated logs
+catboost_info/
+
+# Large model files
+models/*.pkl
+models/*.h5
+
+# Data
+data/raw/
+data/processed/
+
+# OS junk
+.DS_Store
