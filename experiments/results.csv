@@ -2,3 +2,8 @@ model_name,accuracy,precision,recall,date_run,notes
 KNN,0.7798,0.7702,0.7798,2026-06-29,default n_neighbors=5
 Logistic Regression,0.8157,0.8102,0.8157,2026-06-29,default params
 Random Forest,0.8165,0.8108,0.8165,2026-06-29,n_estimators=100
+KNN,0.7798,0.7702,0.7798,2026-07-04,default n_neighbors=5
+Logistic Regression,0.8157,0.8102,0.8157,2026-07-04,default params
+Logistic Regression,0.8157,0.8102,0.8157,2026-07-04,default params
+Random Forest,0.8165,0.8108,0.8165,2026-07-04,n_estimators=100
+Random Forest,0.8165,0.8108,0.8165,2026-07-04,n_estimators=100
